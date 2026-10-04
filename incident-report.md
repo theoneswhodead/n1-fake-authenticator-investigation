@@ -167,6 +167,8 @@ The host communicated with multiple external systems exhibiting characteristics 
 
 ---
 
+## IOCs
+
 |Type|Indicator|Context|
 |---|---|---|
 |IP|`45.125.66.32`|Encrypted C2|
