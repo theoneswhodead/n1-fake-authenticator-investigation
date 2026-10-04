@@ -228,4 +228,3 @@ The host contacted suspicious external infrastructure and subsequently downloade
 |Persistence|[T1547.001](https://attack.mitre.org/techniques/T1547/001/)|Registry Run Keys / Startup Folder|Confirmed|
 |Command and Control|[T1071.001](https://attack.mitre.org/techniques/T1071/001/)|Web Protocols|Confirmed for observed HTTP-based communication|
 |Command and Control|[T1573](https://attack.mitre.org/techniques/T1573/)|Encrypted Channel|Observed|
-|Initial Access|[T1189](https://attack.mitre.org/techniques/T1189/)|Drive-by Compromise|Potential / not confirmed from available PCAP evidence|
