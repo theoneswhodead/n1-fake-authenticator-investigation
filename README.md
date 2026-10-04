@@ -41,7 +41,7 @@ The investigation was performed in several stages:
 
 ## Key Findings
 
-### Initial Access / Suspicious Website
+### ### Suspicious Website Communication
 
 The host communicated with:
 
